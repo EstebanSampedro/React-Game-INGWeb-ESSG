@@ -1,0 +1,53 @@
+.side-container{
+    background:#9b1a1a;
+    height:600px;
+    width:300px;
+    border-radius: 15px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+
+}
+
+
+.description{
+    font-size:1.2rem;
+    background: #000000;
+    padding:10px;
+    margin: 0 10px;
+    border-radius:15px;
+    color:#fff
+}
+
+
+.random-image{
+    width: 80%;
+    height: auto;
+    padding:5px;
+    border-radius: 15px;
+    margin:0 auto;
+}
+
+
+.timer-countdown{
+    color: rgb(0, 0, 0);
+    font-size:1.5rem;
+}
+
+
+.score{
+    background:#000000;
+    color:#fff;
+    padding:20px 30px;
+    border-radius: 15px;
+    width:80%;
+    text-align:center
+}
+
+.btn{
+    background:#000000;
+    font-size:1.2rem;
+    border:none
+    
+}
