@@ -2,7 +2,7 @@
 ![imagen](https://user-images.githubusercontent.com/62622922/215235688-23b4abe0-b259-4db7-aa0c-06a764e70645.png)
 
 
-**Aplicación desplegada**
+**Aplicación desplegada: https://recycling-ingweb-essgg.onrender.com/**
 
 ## Herramientas utilizadas
 - React.JS
